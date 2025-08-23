@@ -36,7 +36,7 @@ Final year **Mechanical Engineering** student with a passion for **software deve
 
 ## 📊 GitHub Stats
 ![Varsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=varsharam2409&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varsharam2409&layout=compact&theme=tokyonight)  
+![Top Languages][(https://github-readme-stats.vercel.app/api/top-langs/?username=varsharam2409&layout=compact&theme=tokyonight)](https://camo.githubusercontent.com/ef0efc977a04b782a312a07522812678d257b0d836afeacc1d072b9069552234/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d706f6f726e6172616d32303032267468656d653d6461726b26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=varsharam2409&theme=tokyonight)  
 
 ---
