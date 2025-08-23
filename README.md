@@ -43,13 +43,6 @@ Hi, I'm Varsha R
 
 ---
 
-## 🏆 GitHub Trophies
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=varsharam2409&theme=onedark&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-
----
-
 ## ✍️ Random Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
