@@ -38,7 +38,7 @@ Hi, I'm Varsha R
 
 ## 📊 GitHub Stats
 ![Varsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=varsharam2409&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varsharam2409&layout=compact&theme=tokyonight)  
+<img width="300" height="165" alt="image" src="https://github.com/user-attachments/assets/b55d4edf-f3d4-4791-900c-33d0a77c95c2" />
 ![GitHub Streak](https://streak-stats.demolab.com?user=varsharam2409&theme=tokyonight)  
 
 ---
