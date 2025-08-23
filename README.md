@@ -36,7 +36,9 @@ Final year **Mechanical Engineering** student with a passion for **software deve
 ---
 
 ## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=varsharam2409&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
