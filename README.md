@@ -8,7 +8,7 @@ Final year **Mechanical Engineering** student with a passion for **software deve
 - 🔭 I’m currently exploring **IoT, Embedded Systems, and Web Development**  
 - 🌱 I’m learning **C++, Python, Java, and Frontend (HTML, CSS, JS)**  
 - 🎨 Passionate about **graphic design & Canva creations**  
-- 📫 Reach me: **your-email@example.com**  
+- 📫 Reach me: **your-varsharam2405@gmail.com**  
 
 ---
 
