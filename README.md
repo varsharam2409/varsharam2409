@@ -37,9 +37,9 @@ Hi, I'm Varsha R
 ---
 
 ## 📊 GitHub Stats
-![Varsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=varsharam2409&show_icons=true&theme=tokyonight)  
-!<img width="300" height="165" alt="image" src="https://github.com/user-attachments/assets/515883e9-fad1-4d80-a2d5-860a6f040219" />
-![GitHub Streak](https://streak-stats.demolab.com?user=varsharam2409&theme=tokyonight)  
+[Varsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=varsharam2409&show_icons=true&theme=tokyonight)  
+<img width="300" height="165" alt="image" src="https://github.com/user-attachments/assets/515883e9-fad1-4d80-a2d5-860a6f040219" />
+[GitHub Streak](https://streak-stats.demolab.com?user=varsharam2409&theme=tokyonight)  
 
 ---
 
