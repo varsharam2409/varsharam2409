@@ -35,6 +35,21 @@ Final year **Mechanical Engineering** student with a passion for **software deve
 
 ---
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=varsharam2409&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## ✍️ Random Dev Quote
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## 🔝 Top Contributed Repo
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=varsharam2409&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+
 ## 🗂️ Featured Projects
 - [Fital Website](https://github.com/varsharam2409/FitalWebsite) – A health and fitness companion website  
 - [Varsha-R](https://github.com/varsharam2409/Varsha-R) – My first Git repository  
