@@ -1,4 +1,4 @@
-Hi, I'm Varsha R 
+Hi, I'm Varsha R
 
 🎓 Final-year **Mechanical Engineering** student  
 💻 Passionate about **software development**  
