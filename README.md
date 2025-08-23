@@ -1,4 +1,4 @@
-# Hi, I'm Varsha R 👋  
+ # Hi, I'm Varsha R 👋  
 
 Final year **Mechanical Engineering** student with a passion for **software development and creative design**.  
 
@@ -13,7 +13,7 @@ Final year **Mechanical Engineering** student with a passion for **software deve
 ---
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/YOUR_BEHANCE/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/) [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/YOUR_BEHANCE/)  
 
 ---
 
