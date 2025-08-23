@@ -1,6 +1,8 @@
- # Hi, I'm Varsha R 👋  
+Hi, I'm Varsha R  
 
-Final year **Mechanical Engineering** student with a passion for **software development and creative design**.  
+🎓 Final-year **Mechanical Engineering** student  
+💻 Passionate about **software development**  
+🎨 Enthusiastic about **creative design** 
 
 ---
 
@@ -42,9 +44,7 @@ Final year **Mechanical Engineering** student with a passion for **software deve
 ---
 
 ## 🏆 GitHub Trophies
-<img width="1326" height="226" alt="image" src="https://github.com/user-attachments/assets/d5699dc3-5d57-43ef-90f2-1b78ec0055c9" />
-
-
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/660706b7-a628-49e2-ac61-dbfa59db6f59" />
 
 ---
 
