@@ -44,7 +44,9 @@ Hi, I'm Varsha R
 ---
 
 ## 🏆 GitHub Trophies
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/660706b7-a628-49e2-ac61-dbfa59db6f59" />
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=varsharam2409&theme=onedark&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
