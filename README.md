@@ -36,7 +36,8 @@ Final year **Mechanical Engineering** student with a passion for **software deve
 ---
 
 ## 🏆 GitHub Trophies
-https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png
+<img width="1326" height="226" alt="image" src="https://github.com/user-attachments/assets/d5699dc3-5d57-43ef-90f2-1b78ec0055c9" />
+
 
 
 ---
