@@ -21,8 +21,9 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.behance.net/YOUR_BEHANCE/"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/varsha-ram-234402331/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.behance.net/varsharam2405"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/profile/varsharam_2405"><img src="https://img.shields.io/badge/hackerrank-1769FF?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </p>
 
 ---
