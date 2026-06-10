@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Varsha R 👋</h1>
 
 <p align="center">
-🎓 Third-year <b>Mechanical Engineering</b> student  
+🎓 Fourth-year <b>Mechanical Engineering</b> student  
 <br>
 💻 Passionate about <b>Software Development & IoT</b>  
 <br>
